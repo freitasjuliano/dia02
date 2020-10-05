@@ -1,0 +1,39 @@
+
+body {
+    background-color: #222222;
+}
+
+
+
+
+
+.order-resume, .Card-information {
+    max-width: 630px;
+    /*max-height: 700px;*/
+}
+
+.order-resume {
+    background-color: white;
+}
+
+.img_product {
+margin: 0 auto;
+}
+
+.img_item {
+    max-width: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.description {
+    margin-left: 20px;
+}
+
+.Card-information {
+    background-color: #F7F7F7;
+} 
+
+.termos {
+    font-size: 14px;
+}

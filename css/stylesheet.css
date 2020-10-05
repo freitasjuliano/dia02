@@ -5,7 +5,13 @@ body {
 
 
 
+.topper, .botter {
+    height: 10vh;
+}
 
+.foda-se {
+    height: 80vh;
+}
 
 .order-resume, .Card-information {
     max-width: 630px;
